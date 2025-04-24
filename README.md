@@ -29,8 +29,8 @@ The performance of the models was compared using several key metrics:
            1     0.0795    0.7668    0.1441      1501
 
     accuracy                         0.9473    259335
-   macro avg     0.5390    0.8576    0.5584    259335
-weighted avg     0.9933    0.9473    0.9680    259335
+    macro avg     0.5390    0.8576    0.5584    259335
+    weighted avg     0.9933    0.9473    0.9680    259335
 
 ROC AUC Score: 0.8622119437201272
 
@@ -43,8 +43,8 @@ ROC AUC Score: 0.8622119437201272
            1     0.2673    0.9227    0.4145      1501
 
     accuracy                         0.9849    259335
-   macro avg     0.6334    0.9540    0.7035    259335
-weighted avg     0.9953    0.9849    0.9890    259335
+    macro avg     0.6334    0.9540    0.7035    259335
+    weighted avg     0.9953    0.9849    0.9890    259335
 
 ROC AUC Score: 0.9930299911448534
 
@@ -56,8 +56,8 @@ ROC AUC Score: 0.9930299911448534
            1     0.5278    0.9560    0.6801      1501
 
     accuracy                         0.9948    259335
-   macro avg     0.7638    0.9755    0.8387    259335
-weighted avg     0.9970    0.9948    0.9955    259335
+    macro avg     0.7638    0.9755    0.8387    259335
+    weighted avg     0.9970    0.9948    0.9955    259335
 
 ROC AUC Score: 0.9990139734122968
 
